@@ -1,4 +1,4 @@
-# Final Project: HobbyHub
+# Final Project: Technology Sparks
 
 ## Overview
 
